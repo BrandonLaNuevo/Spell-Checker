@@ -1,0 +1,10 @@
+Dictionary Source
+----------
+
+Dictionary from  http://www.gwicks.net/dictionaries.htm
+
+Direct link : http://www.gwicks.net/textlists/engmix.zip
+
+Used the English 84,000 Word dictionary.
+renamed engmix.txt to dictionary.txt.
+
